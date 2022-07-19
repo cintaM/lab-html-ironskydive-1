@@ -104,3 +104,22 @@ nav{
     width: 250px;
     height: 180px;
 }
+
+.dark-background footer {
+    text-align: center;
+    font-size: 1.9em;
+}
+
+.address{
+    font-style: normal;
+    font-size: 0.8em;
+}
+
+footer a{
+    color: rgb(67, 163, 230);
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
